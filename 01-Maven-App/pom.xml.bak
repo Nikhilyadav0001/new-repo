@@ -31,7 +31,7 @@
 				</execution>
 			</executions>
 			<configuration>
-				<mainClass>nikhil.MainApp</mainClass>
+				<mainClass>nikhil.main.App</mainClass>
 			</configuration>
 		</plugin>
 	</plugins>
